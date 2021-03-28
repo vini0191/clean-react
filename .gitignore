@@ -2,4 +2,5 @@ node_modules
 .vscode
 yarn-error.log
 coverage
+public/js
 **/.DS_Store
